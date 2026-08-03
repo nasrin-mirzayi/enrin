@@ -8,13 +8,13 @@ Enrin gather all oppurtunities in one place, we believe talent exists everywhere
 ---
 <img width="1900" height="871" alt="image" src="https://github.com/user-attachments/assets/25ced674-decd-413d-92f8-bafa8632c247" />
 ---
-## live demo link:
+## live demo link: <br>
 https://enrin-aw4zh5q2z-nasrin1.vercel.app/en
 ---
-## github link:
+## github link: <br>
 https://github.com/nasrin-mirzayi
 ---
-## repository link:
+## repository link:<br>
 https://github.com/nasrin-mirzayi/enrin/tree/main
 ---
 
