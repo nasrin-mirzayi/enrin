@@ -7,8 +7,16 @@ problem solve:
 Enrin gather all oppurtunities in one place, we believe talent exists everywhere. Enrin can be a useful online platform helps you discover new oppurtunities for a better tomorrow. we have a special cti class for afghan girls helping them stand and get one step closer to their dreams.
 ---
 <img width="1900" height="871" alt="image" src="https://github.com/user-attachments/assets/25ced674-decd-413d-92f8-bafa8632c247" />
+---
+## live demo link:
+https://enrin-aw4zh5q2z-nasrin1.vercel.app/en
+---
+## github link:
+https://github.com/nasrin-mirzayi
+---
+## repository link:
 
-
+## 
 ---
 ## ✨ Features
 
@@ -193,3 +201,7 @@ http://localhost:3000
 
 
 ---
+challenges and what i've learned:
+<br>
+
+this project helped me to understand proxy, authentication, cookies and local storage overall next.js and react in a better way.  from the very beginning when i started building the project, i thought about the overall structure, style and where to put what, while keeping all requirement of assignment. yes it was challenging because it was very close to a real project and to be honest i encountered a lot of problems specially with [locale] cause i had no idea how next behave. practiced for hours even started to watch all videos to keep in mind what we covered due this next.js class and be sure to cover all details.  i am satisfied with the result and glad that i was able to finish it well. agree have lots of problems, or complex codes hope u understand and expect better projects from me, also i try my best to be better than who am i today.
