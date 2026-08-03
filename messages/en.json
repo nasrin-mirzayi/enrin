@@ -1,0 +1,154 @@
+{
+  "navbar": {
+    "home": "Home",
+    "opportunities": "Opportunities",
+    "dashboard": "Dashboard",
+    "saved": "Saved",
+    "about": "About",
+    "contact": "Contact",
+    "addOpportunity": "Add Opportunity"
+  },
+   "footer": {
+    "slogan": "INSPIRE. INNOVATE. ELEVATE.",
+    "copyright": "© 2026 Enrin Job Placement"
+  },
+  "home": {
+  "badge": "Opportunities for a better tomorrow.",
+  "description": "Enrin helps people to discover jobs, internships, scholarships, and learning opportunities.",
+  "browse": "Browse Opportunities",
+  "add": "Add Opportunity"
+},
+"opportunityCard": {
+  "deadline": "Deadline",
+  "details": "Details"
+},
+"searchFilter": {
+  "searchTitle": "Search title...",
+  "searchLocation": "Search location...",
+  "allCategories": "All Categories",
+  "job": "Job",
+  "internship": "Internship",
+  "scholarship": "Scholarship",
+  "course": "Course",
+  "allTypes": "All Types",
+  "remote": "Remote",
+  "onsite": "On-site",
+  "allDeadlines": "All Deadlines",
+  "expiringSoon": "Expiring Soon",
+  "thisMonth": "This Month",
+  "expired": "Expired"
+},
+"opportunities": {
+  "title": "Opportunities",
+  "featured": "Featured Opportunity",
+  "ctiDescription": "Afghanistan's leading coding school for women. Learn programming, graphic design, and tech skills.",
+  "technology": "Technology",
+  "education": "Education",
+  "coding": "Coding",
+  "online": "Online",
+  "exploreProgram": "Explore Program",
+  "noResults": "No opportunities found",
+  "tryAnother": "Try another search or filter."
+},
+"opportunityDetails": {
+  "notFound": "Opportunity Not Found",
+  "category": "Category",
+  "location": "Location",
+  "type": "Type",
+  "deadline": "Deadline",
+  "requirements": "Requirements",
+  "applyNow": "Apply Now",
+  "delete": "Delete",
+  "details": "Details"
+
+},
+"addOpportunity": {
+  "title": "Add Opportunity",
+  "create":"Create and share opportunities for students and young professionals."
+              
+},
+"saved": {
+  "title": "Saved Opportunities",
+  "empty": "No saved opportunities."
+},
+"dashboard": {
+  "title": "Dashboard",
+  "description": "Track opportunities, categories, and platform activity.",
+  "totalOpportunities": "Total Opportunities",
+  "jobs": "Jobs",
+  "internships": "Internships",
+  "scholarships": "Scholarships",
+  "remote": "Remote",
+  "expiringSoon": "Expiring Soon",
+  "analytics": "Opportunity Analytics",
+  "latest": "Latest Opportunities",
+  "noAvailable": "No opportunities available yet.",
+  "tableTitle": "Title",
+  "category": "Category",
+  "location": "Location",
+  "type": "Type"
+},
+"about": {
+  "title": "About Enrin",
+  "intro": "Enrin is a platform designed to help individuals discover meaningful opportunities for growth. From jobs and internships to scholarships, courses, and skill development resources, Enrin connects people with the tools they need to build a better future.",
+
+  "missionTitle": "Our Mission",
+  "missionText": "We believe talent exists everywhere, but opportunities are not always easy to find. Enrin brings opportunities together in one place, helping students, graduates, and learners discover paths that match their goals.",
+
+  "providesTitle": "What Enrin Provides",
+  "providesText": "Enrin helps people discover career opportunities, learning resources, and skill development paths. Users can explore jobs, internships, remote work, scholarships, and courses designed to support their personal and professional growth.",
+
+  "visionTitle": "Our Vision",
+  "visionText": ".Enrin aims to create a place where opportunities, learning, and growth come together. By making valuable resources easier to discover, we help people move closer to their goals and create new possibilities for their future.",
+
+  "ctaTitle": "Your Next Opportunity May Be Closer Than You Think",
+  "ctaText": "Explore opportunities, discover new learning paths, and take the next step toward your goals with Enrin.",
+  "explore": "Explore Opportunities"
+},
+"contact": {
+  "title": "Contact Us",
+  "name": "Your Name",
+  "email": "Your Email",
+  "message": "Your Message",
+  "send": "Send Message",
+  "success": "Message sent successfully ✅"
+},
+"opportunityForm": {
+  "savedSuccessfully": "Opportunity saved successfully",
+  "basicInformation": "Basic Information",
+  "title": "Opportunity Title",
+  "titlePlaceholder": "Example: Frontend Internship",
+  "organization": "Organization",
+  "organizationPlaceholder": "Organization name",
+  "category": "Category",
+  "job": "Job",
+  "internship": "Internship",
+  "scholarship": "Scholarship",
+  "course": "Course",
+  "opportunityDetails": "Opportunity Details",
+  "location": "Location",
+  "locationPlaceholder": "Kabul / Remote",
+  "type": "Type",
+  "remote": "Remote",
+  "onsite": "On-site",
+  "deadline": "Deadline",
+  "descriptionApplication": "Description & Application",
+  "description": "Description",
+  "descriptionPlaceholder": "Describe this opportunity...",
+  "requirements": "Requirements",
+  "requirementsPlaceholder": "Example: React, English, Computer skills",
+  "applicationLink": "Application Link",
+  "applyLinkPlaceholder": "https://example.com/apply",
+  "tags": "Tags",
+  "tagsPlaceholder": "React, Next.js, Frontend",
+  "updateOpportunity": "Update Opportunity",
+  "addOpportunity": "Add Opportunity"
+},
+"editOpportunity": {
+  "title": "Edit Opportunity",
+  "notFound": "Opportunity Not Found",
+  "notFoundDescription": "The opportunity you are trying to edit doesn't exist."
+}
+}
+
+

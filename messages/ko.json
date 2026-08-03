@@ -1,0 +1,154 @@
+{
+  "navbar": {
+    "home": "홈",
+    "opportunities": "기회",
+    "dashboard": "대시보드",
+    "saved": "저장됨",
+    "about": "소개",
+    "contact": "연락처",
+    "addOpportunity": "기회 추가"
+  },
+   "footer": {
+    "slogan": "영감을 얻고. 혁신하고. 성장하세요.",
+    "copyright": "© 2026 Enrin Job Placement"
+  },
+  "home": {
+  "badge": "더 나은 내일을 위한 기회",
+  "description": "Enrin은 사람들이 일자리, 인턴십, 장학금 및 학습 기회를 찾도록 돕습니다.",
+  "browse": "기회 보기",
+  "add": "기회 추가"
+},
+"opportunityCard": {
+  "deadline": "마감일",
+  "details": "자세히 보기"
+},
+"searchFilter": {
+  "searchTitle": "제목 검색...",
+  "searchLocation": "위치 검색...",
+  "allCategories": "모든 카테고리",
+  "job": "직업",
+  "internship": "인턴십",
+  "scholarship": "장학금",
+  "course": "강좌",
+  "allTypes": "모든 유형",
+  "remote": "원격",
+  "onsite": "현장",
+  "allDeadlines": "모든 마감일",
+  "expiringSoon": "곧 마감",
+  "thisMonth": "이번 달",
+  "expired": "만료됨"
+},
+"opportunityForm": {
+  "savedSuccessfully": "기회가 성공적으로 저장되었습니다",
+  "basicInformation": "기본 정보",
+  "opportunityDetails": "기회 세부 정보",
+  "descriptionApplication": "설명 및 지원",
+
+  "title": "기회 제목",
+  "organization": "기관",
+  "category": "카테고리",
+  "location": "위치",
+  "type": "유형",
+  "deadline": "마감일",
+  "description": "설명",
+  "requirements": "요구 사항",
+  "applicationLink": "지원 링크",
+  "tags": "태그",
+
+  "titlePlaceholder": "예: 프론트엔드 인턴십",
+  "organizationPlaceholder": "기관 이름",
+  "locationPlaceholder": "카불 / 원격",
+  "descriptionPlaceholder": "이 기회를 설명하세요...",
+  "requirementsPlaceholder": "예: React, 영어, 컴퓨터 기술",
+  "tagsPlaceholder": "React, Next.js, Frontend",
+
+  "job": "직업",
+  "internship": "인턴십",
+  "scholarship": "장학금",
+  "course": "강좌",
+
+  "remote": "원격",
+  "onsite": "현장",
+
+  "updateOpportunity": "기회 수정",
+  "addOpportunity": "기회 추가"
+},
+"opportunities": {
+  "title": "기회",
+  "featured": "추천 기회",
+  "ctiDescription": "아프가니스탄 여성들을 위한 최고의 코딩 학교입니다. 프로그래밍, 그래픽 디자인 및 기술 역량을 배울 수 있습니다.",
+  "technology": "기술",
+  "education": "교육",
+  "coding": "코딩",
+  "online": "온라인",
+  "exploreProgram": "프로그램 보기",
+  "noResults": "기회를 찾을 수 없습니다",
+  "tryAnother": "다른 검색어나 필터를 시도해 보세요."
+},
+"opportunityDetails": {
+  "notFound": "기회를 찾을 수 없습니다",
+  "category": "카테고리",
+  "location": "위치",
+  "type": "유형",
+  "deadline": "마감일",
+  "requirements": "요구 사항",
+  "applyNow": "지원하기",
+  "delete": "삭제",
+  "details": "세부 정보"
+
+},
+"addOpportunity": {
+  "title": "기회 추가"
+},
+"saved": {
+  "title": "저장된 기회",
+  "empty": "저장된 기회가 없습니다."
+},
+"dashboard": {
+  "title": "대시보드",
+  "description": "기회, 카테고리 및 플랫폼 활동을 확인하세요.",
+  "totalOpportunities": "전체 기회",
+  "jobs": "직업",
+  "internships": "인턴십",
+  "scholarships": "장학금",
+  "remote": "원격",
+  "expiringSoon": "곧 마감",
+  "analytics": "기회 분석",
+  "latest": "최신 기회",
+  "noAvailable": "아직 이용 가능한 기회가 없습니다.",
+  "tableTitle": "제목",
+  "category": "카테고리",
+  "location": "위치",
+  "type": "유형"
+},
+"about": {
+  "title": "Enrin 소개",
+  "intro": "Enrin은 사람들이 성장에 필요한 의미 있는 기회를 찾을 수 있도록 돕는 플랫폼입니다. 직업, 인턴십, 장학금, 강좌 및 기술 개발 자료를 통해 더 나은 미래를 만드는 데 필요한 도구를 제공합니다.",
+
+  "missionTitle": "우리의 사명",
+  "missionText": "우리는 재능이 어디에나 존재하지만 기회를 찾는 것은 항상 쉽지 않다고 믿습니다. Enrin은 다양한 기회를 한곳에 모아 학생과 졸업생이 목표에 맞는 길을 찾도록 돕습니다.",
+
+  "providesTitle": "Enrin이 제공하는 것",
+  "providesText": "Enrin은 사람들이 직업 기회, 학습 자료 및 기술 개발 경로를 찾도록 돕습니다. 사용자는 직업, 인턴십, 원격 근무, 장학금 및 강좌를 탐색할 수 있습니다.",
+
+  "visionTitle": "우리의 비전",
+  "visionText": "Enrin은 기회, 학습과 성장이 함께하는 공간을 만드는 것을 목표로 합니다. 가치 있는 자원을 쉽게 찾을 수 있도록 하여 사람들이 목표에 더 가까워지도록 돕습니다.",
+
+  "ctaTitle": "다음 기회는 생각보다 가까울 수 있습니다",
+  "ctaText": "기회를 탐색하고 새로운 학습 경로를 발견하며 Enrin과 함께 목표를 향해 나아가세요.",
+  "explore": "기회 탐색"
+},
+"contact": {
+  "title": "문의하기",
+  "name": "이름",
+  "email": "이메일",
+  "message": "메시지",
+  "send": "메시지 보내기",
+  "success": "메시지가 성공적으로 전송되었습니다 ✅"
+},
+"editOpportunity": {
+  "title": "기회 수정",
+  "notFound": "기회를 찾을 수 없습니다",
+  "notFoundDescription": "수정하려는 기회가 존재하지 않습니다."
+}
+}
