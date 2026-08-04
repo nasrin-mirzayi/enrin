@@ -82,7 +82,9 @@ https://github.com/nasrin-mirzayi/enrin/tree/main <br>
   * Nationality =Afghanistan
   * Gender = Women
   * Commited to study = Yes
-    ---
+  
+  
+  ---
   ## 🛠 Tech Stack
 
 ### Frontend
