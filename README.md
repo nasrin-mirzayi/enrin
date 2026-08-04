@@ -76,6 +76,14 @@ https://github.com/nasrin-mirzayi/enrin/tree/main <br>
   * animations
   * style
   
+  ###cti access: 
+    <br> 
+to get cti access u must fill the form like this
+  * Name = Optional
+  * Nationality = Afghanistan
+*  Gender = woman
+*  Commited to study = Yes
+---
   
   ## 🛠 Tech Stack
 
